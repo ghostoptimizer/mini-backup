@@ -1,0 +1,7 @@
+.gpg.pass
+*.tar.gz
+*.tar.gz.gpg
+backup.log
+backups-mini/
+decrypted-*.tar.gz
+Users/
