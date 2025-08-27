@@ -10,11 +10,17 @@
 ## ✨ Features
 
 - 📦 Create compressed `.tar.gz` archives of your important files
+  
 - 🔐 Encrypt backups using GPG with AES256 (`--symmetric`)
+  
 - 📂 Smart exclude patterns (e.g., skip caches, trash, etc.)
+  
 - 🧹 Prune backups automatically with retention policy
+  
 - 🛠️ Restore from backup interactively
+  
 - 🧠 Configurable via `config.conf`
+  
 - 🕒 Schedule via `cron`
 
 ---
